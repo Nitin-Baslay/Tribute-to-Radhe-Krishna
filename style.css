@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-image: linear-gradient(to left, rgba(54,69,93,0.9), rgba(150,173,209,0.9)), url("https://images.pexels.com/photos/414764/pexels-photo-414764.jpeg?auto=compress&cs=tinysrgb&w=1000");
+}
+header{
+    color: black;
+    font-size: 100px;
+    text-align: center;
+    font-family: "Berkshire Swash"; 
+}
+header:hover{
+    color: tomato;
+}
+section{
+    float: right;
+    margin: -450px 30px -50px 400px;
+}
+figure{
+    margin: 30px 1180px 4px 0;
+}
+figure:hover{
+    background-color: red;
+}
+.main{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    font-family: "Permanent Marker";
+    margin-top: -15px;
+}
+.desc{
+    margin: 10px 0 0 -30px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    padding:10px 0px ;
+    line-height: 30px;
+}
+.list{
+    margin: 10px 0 0 -30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.list1{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.btn{
+    padding: 15px 30px;
+    border-radius: 50px;
+    border: 0;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.btn:hover{
+    color: black;
+    background-color: tomato;
+}
+.pic{
+    margin: -100px 0 0 0;
+}

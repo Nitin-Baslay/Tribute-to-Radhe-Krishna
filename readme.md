@@ -1,6 +1,6 @@
 Build a tribute page of someone you admire in your life. 
 
-It requires only basic knowledge of HTML, Do not use CSS. Make a webpage writing about that person adding his/her image.  
+It requires only basic knowledge of HTML, CSS. Make a webpage writing about that person adding his/her image.  
 
 You can use paragraphs, lists, links and images.
 
